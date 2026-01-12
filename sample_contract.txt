@@ -1,0 +1,6 @@
+Company A hires Developer B for software development.
+Total payment is INR 85,000 split into two milestones.
+Project duration is 16 weeks.
+Confidentiality must be maintained.
+Termination requires 30 days written notice.
+Liability is limited to fees paid.
